@@ -1,0 +1,3 @@
+[submodule "rb"]
+	path = rb
+	url = https://github.com/wikimedia/restbase
